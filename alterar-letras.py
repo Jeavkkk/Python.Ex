@@ -3,4 +3,4 @@ def swap_case(s):
 
 if __name__ == '__main__':
     s = input("Digite uma string: ")
-    print(swap_case(s))
+    print(swap_case(s)) 
